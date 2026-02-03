@@ -399,3 +399,57 @@ FodyWeavers.xsd
 
 # JetBrains Rider
 *.sln.iml
+
+############################
+# Firebase
+############################
+google-services.json
+GoogleService-Info.plist
+firebase.json
+.firebaserc
+.firebase/
+
+############################
+# Unity
+############################
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+############################
+# IDE / Editor
+############################
+.vs/
+.idea/
+.vscode/
+*.csproj
+*.sln
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+############################
+# OS
+############################
+.DS_Store
+Thumbs.db
+
+############################
+# Env / Secrets
+############################
+.env
+.env.local
+.env.*.local
+
+############################
+# Logs
+############################
+*.log
+*.stackdump
+crashlytics-build.properties
